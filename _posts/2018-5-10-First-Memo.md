@@ -2,10 +2,11 @@
 layout: post
 title: First memo
 ---
-Testing Markdown..
+#### Intro
+항상 쓰면서도 헷갈리던 것들이니 기회가 될 때 정리해두자. 사실 아래 Reference의 원문을 공부하는 겸해서 내가 이해한 바대로 다시 적는 것 뿐이다.
 
-This is how you can show link
-[Go back to home](https://hjh5696.github.io)
+#### 알아야 할 것들
 
-This is how you can show image
-![Sample Image](https://kbob.github.io/images/sample-5.jpg | width=48)
+
+#### Reference
+[원문 - http://la-stranger.blogspot.com/2014/04/ios.html](http://la-stranger.blogspot.com/2014/04/ios.html)
