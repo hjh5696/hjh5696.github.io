@@ -1,0 +1,10 @@
+---
+layout: post
+title: Swift view 실험
+---
+### Intro
+Swift View, FlexLayout 정리해보자
+
+### 스토리
+여러 함수를 실험을 좀 해보자.
+1. 일단 addSubview()
