@@ -16,3 +16,5 @@ navigationController?.navigationBar.isTranslucent = true
 navigationController?.navigationBar.setBackgroundImage(UIImage(), for: .default) 를 viewWillAppear에서 설정해줘서 백그라운드 없애버리고 Translucent 하게 만든다.
 SO에 보면 대부분 backgroundColor와 barTintColor를 clear로 설정해주라고 하는데 안해줘도 잘 나오는듯? 이건 추가 실험 필요
 viewWillDisappear에선 isTranslucent 다시 false로 바꿔줌 (물론 다음 네비게이션이 어디냐에 따라 다르겠지만 또..)
+
+willMove가 이상하게 transition 되는거 없애주네. transparent로 갈때 부드럽게 바꿔줌. willDisappear 쓰지말고 
